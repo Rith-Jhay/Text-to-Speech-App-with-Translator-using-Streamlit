@@ -1,3 +1,4 @@
+click<8.0
 streamlit==0.90.0
 mtranslate==1.8
 gtts==2.2.3
