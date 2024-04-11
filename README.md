@@ -42,3 +42,5 @@ This is a simple web application built with Streamlit that allows users to conve
 <img width="454" alt="image" src="https://github.com/Rith-Jhay/Text-to-Speech-App-with-Translator-using-Streamlit/assets/130302683/a635f1bf-0f16-42c8-a204-4efb2d038792">
 <img width="449" alt="image" src="https://github.com/Rith-Jhay/Text-to-Speech-App-with-Translator-using-Streamlit/assets/130302683/2e06e508-7a3a-4ea6-b9b2-3b5754d5040d">
 
+## Streamlit Deployed link 
+https://rithapp.streamlit.app/
