@@ -1,4 +1,2 @@
-streamlit==0.88.0
-click<8.0
 mtranslate==1.8
 gtts==2.2.3
