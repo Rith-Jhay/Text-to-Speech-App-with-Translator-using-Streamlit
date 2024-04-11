@@ -1,5 +1,5 @@
 click<8.0
-streamlit==0.90.0
+streamlit==1.32.2
 mtranslate==1.8
 gtts==2.2.3
 openpyxl
