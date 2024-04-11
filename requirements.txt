@@ -1,3 +1,4 @@
+streamlit==0.89.0
 mtranslate==1.8
 gtts==2.2.3
 openpyxl
