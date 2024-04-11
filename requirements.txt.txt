@@ -1,0 +1,4 @@
+python_version==3.8.*
+mtranslate==1.8
+gtts==2.2.3
+base64==1.0.0
