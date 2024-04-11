@@ -1,4 +1,3 @@
-from collections.abc import Iterable
 import streamlit as st
 from mtranslate import translate
 import pandas as pd
